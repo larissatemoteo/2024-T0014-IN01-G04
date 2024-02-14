@@ -50,7 +50,8 @@ Tendo como princípios dar voz às pessoas, criar conexão e comunidade, servir 
 Em 2004 foi lançado o Facebook, após isso, a cartela de produtos da Meta aumentou e incluiu aplicativos como o Messenger, o Instagram e o WhatsApp. Atualmente, a Meta está expandindo os negócios e indo em direção a experiências imersivas com realidade aumentada, virtual e mista. Em decorrência da vasta gama de produtos e serviços a Meta acumulou uma série de concorrentes (tabela abaixo).
 
 <img src="../assets/tabelaConcorrentes.png">
-Figura 1: Tabela de concorrentes da Meta. Fonte: Autor Próprio (2024)
+
+Figura 1. Tabela de concorrentes da Meta. Fonte: Autor Próprio (2024)
 
 Entretanto, apesar da vasta quantidade de concorrentes, em fevereiro de 2024 as ações da Meta dispararam e a empresa teve o maior ganho em valor de mercado em um único dia. As ações da Meta subiram 20,3% e esse ganho acrescentou US$ 206 bilhões em valor de mercado, o que fez com que a empresa se destacasse no cenário mundial e se consagrasse como a 34º posição entre as maiores empresas do globo
 
@@ -59,7 +60,8 @@ Entretanto, apesar da vasta quantidade de concorrentes, em fevereiro de 2024 as 
 A análise SWOT da Meta oferece uma visão abrangente das forças, fraquezas, oportunidades e ameaças enfrentadas pela empresa. A Meta, anteriormente conhecida como Facebook, é uma gigante global que moldou a forma como interagimos e nos conectamos digitalmente. Com uma ampla gama de produtos em sua carteira e um marketing marcante, a empresa conquistou uma presença forte e influente em todo o mundo.
 
 <img src="../assets/MatrizSwotMeta.png">
-Figura 2: Análise SWOT da empresa Meta. Fonte: Autor Próprio (2024)
+
+Figura 2. Análise SWOT da empresa Meta. Fonte: Autor Próprio (2024)
 
 **Forças:**
 - Grande variedade de produtos na carteira;</br>
@@ -98,6 +100,7 @@ Sendo assim, é esperado o aumento do engajamento dos usuários devido à aborda
 Com o intuito de agregar valor na nossa solução e identificar quais as necessidades dos clientes desenvolvemos um Canvas Proposta de Valor, confome consta abaixo.
 
 <img src="../assets/CanvasPropostaValor.png">
+
 Figura 3. Canvas Proposta de Valor. Fonte: Autor Próprio (2024)
 
 **Dores**
@@ -156,11 +159,12 @@ Figura 3. Canvas Proposta de Valor. Fonte: Autor Próprio (2024)
 Visando avaliar a probabilidade de determinados eventos e consequências ocorrerem a Matriz de Risco foi criada. Além de ajudar a otimizar o trabalho e planejar planos de ações para evitar que determinados riscos ocorressem.
 
 <img src="../assets/MatrizRisco.png">
+
 Figura 4. Matriz de Riscos. Fonte: Autor Próprio (2024)
 
 De acordo com os riscos estabelecidos foi possível determinar quais ações seriam tomadas para evitar que estes ocorressem e o que seria feito caso ocorressem.
 
-\# | Plano de Ação e Resposta 
+\Riscos | Plano de Ação e Resposta 
 --- | ---
 **Impasses gerados por ideias divergentes** | Entrar em consenso por meio do diálogo e reuniões
 **Ausência de conhecimento técnico** | Buscar nivelar o mais proximo possivel os assuntos a serem abordados
