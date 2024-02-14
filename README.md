@@ -33,11 +33,11 @@
 
 <a>O processo de contratação de fornecedores da Meta é complicado e levanta muitas dúvidas nos colaboradores da empresa, desse modo o projeto tem como objetivo desenvolver uma solução gamificada (game) para resolver o problema supracitado, criando então uma ferramenta que considere todos os passos da jornada de contratação de um fornecedor até o momento do pagamento, orientando e trazendo mais facilidade e assimilação sobre todo o processo de contratação de fornecedores da Meta para os colaboradores da Meta.</a>
 
-<a>Além disso, é esperado que essa solução:
-    - <a>Aumente o engajamento dos funcionários;</a>
-    - <a>Facilite o entendimento do processo de contratação de fornecedores para os usuários (colaboradores da Meta) e consequentemente diminuir as dúvidas relacionadas ao processo;</a>
-    - <a>Possibilite a escolha de fornecedores sob o contexto da “Diversidade de Fornecedores”;</a>
-    - <a>Proporcione um treinamento divertido e aprendizado ágil.</a>
+<a>Além disso, é esperado que essa solução:</br>
+    - Aumente o engajamento dos funcionários;</br>
+    - Facilite o entendimento do processo de contratação de fornecedores para os usuários (colaboradores da Meta) e consequentemente diminuir as dúvidas relacionadas ao processo;</br>
+    - Possibilite a escolha de fornecedores sob o contexto da “Diversidade de Fornecedores”;</br>
+    - Proporcione um treinamento divertido e aprendizado ágil.</br>
 </a>
 
 ## 📁 Estrutura de pastas
