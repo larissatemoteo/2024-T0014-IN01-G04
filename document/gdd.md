@@ -13,7 +13,8 @@
 - <a>Gabriel Bacci Toledo</a> 
 - <a>Giovanna Fátima de Britto Vieira</a> 
 - <a>Gustavo Gonçalves da Costa</a>
-- <a>Larissa dos Santos Temoteo</a> 
+- <a>Larissa dos Santos Temoteo</a>
+- 
 
 
 ## Sumário
@@ -43,7 +44,7 @@
 
 ### 1.1.1. Contexto da indústria
 
-A Meta é uma empresa que tem como missão dar às pessoas o poder de criar comunidades e aproximar o mundo, dessa forma, eles desenvolvem produtos voltados para o mercado digital, resolvem problemas e trabalham juntos para conectar pessoas do mundo todo. Além disso, essa empresa possui um caráter social, logo possui ações voltadas para a diversidade, inclusão de todos e preocupação com o bem-estar dos seus funcionários.
+A Meta, anteriormente conhecida como Facebook, é uma empresa global que tem como missão conectar pessoas, criar comunidades e aproximar o mundo por meio de produtos digitais. Fundada em 2004, a Meta desenvolveu uma ampla gama de serviços e aplicativos que se tornaram parte essencial da vida online de bilhões de pessoas. Além disso, essa empresa possui um caráter social com ações voltadas para a diversidade, inclusão de todos e preocupação com o bem-estar dos seus funcionários.
 
 Tendo como princípios dar voz às pessoas, criar conexão e comunidade, servir a todos, manter as pessoas seguras, proteger a privacidade e promover oportunidade econômica, a Meta atingiu 3 bilhões de usuários em todo o mundo e se tornou uma das cinco grandes empresas de tecnologia, em conjunto com a Microsoft, Amazon, Apple e Google.
 
@@ -57,13 +58,13 @@ Entretanto, apesar da vasta quantidade de concorrentes, em fevereiro de 2024 as 
 
 ### 1.1.2. Análise SWOT 
 
-A análise SWOT é uma ferramenta utilizada para identificar as forças, oportunidades, fraquezas e ameaças de uma empresa. Dessa forma, serve como uma forma de identificar oportunidades de melhoria frente à concorrência e à própria equipe, promovendo uma visão de qual o atual cenário da empresa.
+A análise SWOT é uma ferramenta utilizada para identificar as forças, oportunidades, fraquezas e ameaças de uma empresa. Dessa forma, serve como uma forma de identificar oportunidades de melhoria frente à concorrência e à própria equipe, promovendo uma visão do cenário atual da empresa.
 
-No contexto da Análise SWOT, há os fatores internos e externos, quanto aos fatores internos há: as forças são as ações internas que oferecem uma vantagem competitiva para a empresa, são os fatores que indicam o sucesso da empresa. Enquanto as fraquezas são o oposto, são as iniciativas internas que estão abaixo do esperado e indicam o que precisa ser feito para melhorar na empresa.
+No contexto da Análise SWOT, há os fatores internos e externos, as forças e fraquezas compõe o ambiente interno. As forças são as ações internas que oferecem uma vantagem competitiva para a empresa e que indicam o sucesso da empresa. Enquanto as fraquezas são o oposto, são as iniciativas internas que estão abaixo do esperado e indicam o que precisa ser feito para melhorar na empresa.
 
 Quanto aos fatores externos há as oportunidades e ameaças. As oportunidades são as iniciativas externas às empresas mas que promovem uma melhor posição competitiva. Em relação às ameaças são os fatores externos que estão foram do controle da empresa e podem impactar negativamente o cenário competitivo.
 
-Desse modo, considerando as concepções da Análise SWOT foi possível identificar as forças, fraquezas, oportunidades e ameaças que a contempla a Meta, conforme consta abaixo.
+Desse modo, considerando as concepções da Análise SWOT foi possível identificar as forças, fraquezas, oportunidades e ameaças que contemplam a Meta, conforme consta abaixo.
 
 <img src="../assets/MatrizSwotMeta.png">
 
