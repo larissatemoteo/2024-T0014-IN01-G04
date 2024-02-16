@@ -51,7 +51,7 @@ Em 2004 foi lançado o Facebook, após isso, a cartela de produtos da Meta aumen
 
 <img src="../assets/tabelaConcorrentes.png">
 
-Figura 1. Tabela de concorrentes da Meta. Fonte: Autor Próprio (2024)
+*Figura 1. Tabela de concorrentes da Meta. Fonte: Autor Próprio (2024)*
 
 Entretanto, apesar da vasta quantidade de concorrentes, em fevereiro de 2024 as ações da Meta dispararam e a empresa teve o maior ganho em valor de mercado em um único dia. As ações da Meta subiram 20,3% e esse ganho acrescentou US$ 206 bilhões em valor de mercado, o que fez com que a empresa se destacasse no cenário mundial e se consagrasse como a 34º posição entre as maiores empresas do globo
 
@@ -67,7 +67,7 @@ Desse modo, considerando as concepções da Análise SWOT foi possível identifi
 
 <img src="../assets/MatrizSwotMeta.png">
 
-Figura 2. Análise SWOT da empresa Meta. Fonte: Autor Próprio (2024)
+*Figura 2. Análise SWOT da empresa Meta. Fonte: Autor Próprio (2024)*
 
 **Forças:**
 - **Equipe qualificada e talentosa:** A empresa possui uma equipe altamente qualificada e talentosa, capaz de impulsionar a inovação e a excelência em seus produtos e serviços. </br>
@@ -123,7 +123,7 @@ Sendo assim, com o intuito de agregar valor na nossa solução e identificar qua
 
 <img src="../assets/CanvasPropostaValor.png">
 
-Figura 3. Canvas Proposta de Valor. Fonte: Autor Próprio (2024)
+*Figura 3. Canvas Proposta de Valor. Fonte: Autor Próprio (2024)*
 
 **Dores**
 1. **Curva de Aprendizagem longa acerca do processo de contratação:** Os colaboradores podem enfrentar dificuldades para entender e assimilar o processo de contratação de fornecedores devido à sua complexidade e falta de recursos de treinamento adequados.
@@ -186,11 +186,12 @@ Dessa forma, a Matriz de risco serve para avaliar o potencial de risco na produ�
 
 <img src="../assets/MatrizRisco.png">
 
-Figura 4. Matriz de Riscos. Fonte: Autor Próprio (2024)
+*Figura 4. Matriz de Riscos. Fonte: Autor Próprio (2024).*
 
 De acordo com os riscos estabelecidos foi possível determinar quais ações seriam tomadas para evitar que estes ocorressem e o que seria feito caso ocorressem.
 
-\# **Risco** | **Plano de Ação e Resposta** 
+\# | **Plano de Ação e Resposta** 
+--- | ---
 **Impasses gerados por ideias divergentes** | Entrar em consenso por meio do diálogo e reuniões
 **Ausência de conhecimento técnico** | Buscar nivelar o mais proximo possivel os assuntos a serem abordados
 **Divisão de tarefas ineficiente** | Construir um bom plano de ações e organizar os objetivos de maineira clara e simples sozinho ou em dupla
@@ -367,37 +368,46 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 Para o desenvolvimento preliminar no jogo foram realizados testes de cenários, escolhas de design e algumas diretrizes para o jogo. Nesses testes de cenário foram produzidos dois andares de um possível prédio da Meta, na primeira imagem(figura 5) consta uma sala da recepção para visitantes e na segunda (figura 6) consta o ambiente de trabalho dos colaboradores da empresa.
 
 <img src="../assets/salaRecepcao.png">
-Figura 5. Ambiente de Recepção. Fonte: Autor Próprio(2024).
+
+*Figura 5. Ambiente de Recepção. Fonte: Autor Próprio(2024)*.</br>
 
 <img src="../assets/escritorio.png">
-Figura 6. Escritório dos Colaboradores da Meta. Fonte: Autor Próprio(2024).
+
+*Figura 6. Escritório dos Colaboradores da Meta. Fonte: Autor Próprio(2024).* </br>
 
 Quanto ao jogo preliminar foi utilizado um cenário mais limpo, que contém apenas o piso e as paredes do escritório, conforme consta na imagem abaixo.
 
 <img src="../assets/modeloArt2.png">
-Figura 7. Cenário Preliminar do Game. Fonte: Autor Próprio(2024).
+
+*Figura 7. Cenário Preliminar do Game. Fonte: Autor Próprio(2024)*.</br>
 
 Nesse último cenário foi adicionado um spritesheet de um personagem, conforme consta abaixo.
 
 <img src= "../assets/AmeliaFull.png">
-Figura 8. SpriteSheet do Personagem. Fonte: Autor Próprio(2024).
+
+*Figura 8. SpriteSheet do Personagem. Fonte: Autor Próprio(2024).*</br>
 
 Para a movimentação do personagem foi realizado uma sequência de códigos, iniciando pela construção da página em HTML (figura 9), seguido das configurações do jogo em JavaScript (figura 10), da função de carregamento de objetos - Preload (figura 11), da função create para adicionar os objetos na cena (figura 12), da função update para garantir a interatividade e movimentação do personagem (figura 13).
 
 <img src="../assets/codigoHtml.png">
-Figura 9. Código em HTML. Fonte: Autor Próprio(2024).
+
+*Figura 9. Código em HTML. Fonte: Autor Próprio(2024).*</br>
 
 <img src="../assets/codigoParte1.png">
-Figura 10. Configurações do Jogo. Fonte: Autor Próprio(2024).
+
+*Figura 10. Configurações do Jogo. Fonte: Autor Próprio(2024).*</br>
 
 <img src="../assets/codigoParte2.png">
-Figura 11. Função Preload. Fonte: Autor Próprio(2024).
+
+*Figura 11. Função Preload. Fonte: Autor Próprio(2024).*</br>
 
 <img src="../assets/codigoParte3.png">
-Figura 12. Função Create. Fonte: Autor Próprio(2024).
+
+*Figura 12. Função Create. Fonte: Autor Próprio(2024).*</br>
 
 <img src="../assets/codigoParte4.png">
-Figura 13. Função Update. Fonte: Autor Próprio(2024).
+
+*Figura 13. Função Update. Fonte: Autor Próprio(2024).*</br>
 
 
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
