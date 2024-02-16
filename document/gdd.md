@@ -190,7 +190,7 @@ Figura 4. Matriz de Riscos. Fonte: Autor Próprio (2024)
 
 De acordo com os riscos estabelecidos foi possível determinar quais ações seriam tomadas para evitar que estes ocorressem e o que seria feito caso ocorressem.
 
-\# **Risco** | **Plano de Ação e Resposta** 
+\# Risco | **Plano de Ação e Resposta** 
 **Impasses gerados por ideias divergentes** | Entrar em consenso por meio do diálogo e reuniões
 **Ausência de conhecimento técnico** | Buscar nivelar o mais proximo possivel os assuntos a serem abordados
 **Divisão de tarefas ineficiente** | Construir um bom plano de ações e organizar os objetivos de maineira clara e simples sozinho ou em dupla
