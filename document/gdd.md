@@ -377,6 +377,29 @@ Quanto ao jogo preliminar foi utilizado um cenário mais limpo, que contém apen
 <img src="../assets/modeloArt2.png">
 Figura 7. Cenário Preliminar do Game. Fonte: Autor Próprio(2024).
 
+Nesse último cenário foi adicionado um spritesheet de um personagem, conforme consta abaixo.
+
+<img src= "../assets/AmeliaFull.png">
+Figura 8. SpriteSheet do Personagem. Fonte: Autor Próprio(2024).
+
+Para a movimentação do personagem foi realizado uma sequência de códigos, iniciando pela construção da página em HTML (figura 9), seguido das configurações do jogo em JavaScript (figura 10), da função de carregamento de objetos - Preload (figura 11), da função create para adicionar os objetos na cena (figura 12), da função update para garantir a interatividade e movimentação do personagem (figura 13).
+
+<img src="../assets/codigoHtml.png">
+Figura 9. Código em HTML. Fonte: Autor Próprio(2024).
+
+<img src="../assets/codigoParte1.png">
+Figura 10. Configurações do Jogo. Fonte: Autor Próprio(2024).
+
+<img src="../assets/codigoParte2.png">
+Figura 11. Função Preload. Fonte: Autor Próprio(2024).
+
+<img src="../assets/codigoParte3.png">
+Figura 12. Função Create. Fonte: Autor Próprio(2024).
+
+<img src="../assets/codigoParte4.png">
+Figura 13. Função Update. Fonte: Autor Próprio(2024).
+
+
 ## 4.2. Desenvolvimento básico do jogo (sprint 2)
 
 *Descreva e ilustre aqui o desenvolvimento da versão básica do jogo, explicando brevemente o que foi entregue em termos de código e jogo. Utilize prints de tela para ilustrar. Indique as eventuais dificuldades e próximos passos.*
