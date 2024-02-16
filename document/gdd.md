@@ -190,12 +190,7 @@ Figura 4. Matriz de Riscos. Fonte: Autor Próprio (2024)
 
 De acordo com os riscos estabelecidos foi possível determinar quais ações seriam tomadas para evitar que estes ocorressem e o que seria feito caso ocorressem.
 
-<<<<<<< HEAD
-# Risco | Plano de Ação e Resposta 
-=======
-\Riscos | Plano de Ação e Resposta 
->>>>>>> 8f359f33219ed8a7e3013fdbbbc39fb3f8b51e05
---- | ---
+\# **Risco** | **Plano de Ação e Resposta** 
 **Impasses gerados por ideias divergentes** | Entrar em consenso por meio do diálogo e reuniões
 **Ausência de conhecimento técnico** | Buscar nivelar o mais proximo possivel os assuntos a serem abordados
 **Divisão de tarefas ineficiente** | Construir um bom plano de ações e organizar os objetivos de maineira clara e simples sozinho ou em dupla
@@ -213,7 +208,7 @@ De acordo com os riscos estabelecidos foi possível determinar quais ações ser
 Durante a reunião com o parceiro do projeto foi possível definir uma série de requisitos que contemplam desde a estética até a mecânica do jogo.
 
 **Tabela de requisitos**
-# | **Requisito**  
+\# | **Requisito**  
 --- | ---
 1 | Garantir que os usuários estejam curiosos e ativos em relação aos processos de forma a reduzir os riscos na contratação.
 2 | Garantir que o colaborador saiba o processo.
