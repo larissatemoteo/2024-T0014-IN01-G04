@@ -50,7 +50,8 @@ Tendo como princípios dar voz às pessoas, criar conexão e comunidade, servir 
 Em 2004 foi lançado o Facebook, após isso, a cartela de produtos da Meta aumentou e incluiu aplicativos como o Messenger, o Instagram e o WhatsApp. Atualmente, a Meta está expandindo os negócios e indo em direção a experiências imersivas com realidade aumentada, virtual e mista. Em decorrência da vasta gama de produtos e serviços a Meta acumulou uma série de concorrentes (tabela abaixo).
 
 <img src="../assets/tabelaConcorrentes.png">
-Figura 1: Tabela de concorrentes da Meta. Fonte: Autor Próprio (2024)
+
+Figura 1. Tabela de concorrentes da Meta. Fonte: Autor Próprio (2024)
 
 Entretanto, apesar da vasta quantidade de concorrentes, em fevereiro de 2024 as ações da Meta dispararam e a empresa teve o maior ganho em valor de mercado em um único dia. As ações da Meta subiram 20,3% e esse ganho acrescentou US$ 206 bilhões em valor de mercado, o que fez com que a empresa se destacasse no cenário mundial e se consagrasse como a 34º posição entre as maiores empresas do globo
 
@@ -65,7 +66,8 @@ Quanto aos fatores externos há as oportunidades e ameaças. As oportunidades s�
 Desse modo, considerando as concepções da Análise SWOT foi possível identificar as forças, fraquezas, oportunidades e ameaças que a contempla a Meta, conforme consta abaixo.
 
 <img src="../assets/MatrizSwotMeta.png">
-Figura 2: Análise SWOT da empresa Meta. Fonte: Autor Próprio (2024)
+
+Figura 2. Análise SWOT da empresa Meta. Fonte: Autor Próprio (2024)
 
 **Forças:**
 - **Equipe qualificada e talentosa:** A empresa possui uma equipe altamente qualificada e talentosa, capaz de impulsionar a inovação e a excelência em seus produtos e serviços. </br>
@@ -116,9 +118,11 @@ Sendo assim, é esperado o aumento do engajamento dos usuários devido à aborda
 O Canvas Proposta de Valor é uma ferramenta que tem como fundamento criar e posicionar produtos ou serviços de acordo com o que o cliente valoriza e precisa. Dessa forma, busca pensar no produto de uma forma mais estrutura e aumentar as chances de fazer o encaixe entre produto e mercado.
 
 Para atingir esse objetivo, a Proposta de Valor conta com dois blocos o Perfil do Cliente e a Proposta de Valor. Nesse primeiro, há a tarefa do cliente, as dores dos clientes e os ganhos dos clientes. Enquanto no segundo bloco estão presentes os produtos e serviços, os aliviadores de dores e os criadores de ganhos. 
-Sendo assim, xom o intuito de agregar valor na nossa solução e identificar quais as necessidades dos clientes desenvolvemos um Canvas Proposta de Valor, confome consta na imagem abaixo.
+
+Sendo assim, com o intuito de agregar valor na nossa solução e identificar quais as necessidades dos clientes desenvolvemos um Canvas Proposta de Valor, confome consta na imagem abaixo.
 
 <img src="../assets/CanvasPropostaValor.png">
+
 Figura 3. Canvas Proposta de Valor. Fonte: Autor Próprio (2024)
 
 **Dores**
@@ -181,11 +185,16 @@ Sendo assim, a probabilidade indica o quão previsível é que um risco ocorra e
 Dessa forma, a Matriz de risco serve para avaliar o potencial de risco na produção desse projeto e ajudar no planejamento de ações para evitar que esses ocorram.
 
 <img src="../assets/MatrizRisco.png">
+
 Figura 4. Matriz de Riscos. Fonte: Autor Próprio (2024)
 
 De acordo com os riscos estabelecidos foi possível determinar quais ações seriam tomadas para evitar que estes ocorressem e o que seria feito caso ocorressem.
 
+<<<<<<< HEAD
 # Risco | Plano de Ação e Resposta 
+=======
+\Riscos | Plano de Ação e Resposta 
+>>>>>>> 8f359f33219ed8a7e3013fdbbbc39fb3f8b51e05
 --- | ---
 **Impasses gerados por ideias divergentes** | Entrar em consenso por meio do diálogo e reuniões
 **Ausência de conhecimento técnico** | Buscar nivelar o mais proximo possivel os assuntos a serem abordados
@@ -362,13 +371,14 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 Para o desenvolvimento preliminar no jogo foram realizados testes de cenários, escolhas de design e algumas diretrizes para o jogo. Nesses testes de cenário foram produzidos dois andares de um possível prédio da Meta, na primeira imagem(figura 5) consta uma sala da recepção para visitantes e na segunda (figura 6) consta o ambiente de trabalho dos colaboradores da empresa.
 
-<img src="../assets/recepcao.png">
+<img src="../assets/salaRecepcao.png">
 Figura 5. Ambiente de Recepção. Fonte: Autor Próprio(2024).
 
 <img src="../assets/escritorio.png">
 Figura 6. Escritório dos Colaboradores da Meta. Fonte: Autor Próprio(2024).
 
 Quanto ao jogo preliminar foi utilizado um cenário mais limpo, que contém apenas o piso e as paredes do escritório, conforme consta na imagem abaixo.
+
 <img src="../assets/modeloArt2.png">
 Figura 7. Cenário Preliminar do Game. Fonte: Autor Próprio(2024).
 
