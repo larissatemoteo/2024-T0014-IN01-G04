@@ -369,6 +369,7 @@ Figura 5. Ambiente de Recepção. Fonte: Autor Próprio(2024).
 Figura 6. Escritório dos Colaboradores da Meta. Fonte: Autor Próprio(2024).
 
 Quanto ao jogo preliminar foi utilizado um cenário mais limpo, que contém apenas o piso e as paredes do escritório, conforme consta na imagem abaixo.
+
 <img src="../assets/modeloArt2.png">
 Figura 7. Cenário Preliminar do Game. Fonte: Autor Próprio(2024).
 
