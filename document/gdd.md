@@ -48,9 +48,12 @@ Tendo como princípios dar voz às pessoas, criar conexão e comunidade, servir 
 
 Em 2004 foi lançado o Facebook, após isso, a cartela de produtos da Meta aumentou e incluiu aplicativos como o Messenger, o Instagram e o WhatsApp. Atualmente, a Meta está expandindo os negócios e indo em direção a experiências imersivas com realidade aumentada, virtual e mista. Em decorrência da vasta gama de produtos e serviços a Meta acumulou uma série de concorrentes (tabela abaixo).
 
-<img src="../assets/tabelaConcorrentes.png">
-
-*Figura 1. Tabela de concorrentes da Meta. Fonte: Autor Próprio (2024)*
+<div align="center">
+<sub>Figura 1 - Tabela de Concorrentes da Meta</sub>
+<img src="../assets/tabelaConcorrentes.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2023)</sup>
+</div>
+<img src="">
 
 Entretanto, apesar da vasta quantidade de concorrentes, em fevereiro de 2024 as ações da Meta dispararam e a empresa teve o maior ganho em valor de mercado em um único dia. As ações da Meta subiram 20,3% e esse ganho acrescentou US$ 206 bilhões em valor de mercado, o que fez com que a empresa se destacasse no cenário mundial e se consagrasse como a 34º posição entre as maiores empresas do globo
 
@@ -64,9 +67,12 @@ Quanto aos fatores externos há as oportunidades e ameaças. As oportunidades s�
 
 Desse modo, considerando as concepções da Análise SWOT foi possível identificar as forças, fraquezas, oportunidades e ameaças que a contempla a Meta, conforme consta abaixo.
 
-<img src="../assets/MatrizSwotMeta.png">
+<div align="center">
+<sub>Figura 2 - Análise SWOT da empresa Meta</sub>
+<img src="../assets/MatrizSwotMeta.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
-*Figura 2. Análise SWOT da empresa Meta. Fonte: Autor Próprio (2024)*
 
 **Forças:**
 - **Equipe qualificada e talentosa:** A empresa possui uma equipe altamente qualificada e talentosa, capaz de impulsionar a inovação e a excelência em seus produtos e serviços. </br>
@@ -120,9 +126,11 @@ Para atingir esse objetivo, a Proposta de Valor conta com dois blocos o Perfil d
 
 Sendo assim, com o intuito de agregar valor na nossa solução e identificar quais as necessidades dos clientes desenvolvemos um Canvas Proposta de Valor, confome consta na imagem abaixo.
 
-<img src="../assets/CanvasPropostaValor.png">
-
-*Figura 3. Canvas Proposta de Valor. Fonte: Autor Próprio (2024)*
+<div align="center">
+<sub>Figura 3 - Canvas da Proposta de Valor do Projeto</sub>
+<img src="../assets/imagensGdd/canvasPropostaValor.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
 **Dores**
 1. **Curva de Aprendizagem longa acerca do processo de contratação:** Os colaboradores podem enfrentar dificuldades para entender e assimilar o processo de contratação de fornecedores devido à sua complexidade e falta de recursos de treinamento adequados.
@@ -183,11 +191,17 @@ Sendo assim, a probabilidade indica o quão previsível é que um risco ocorra e
 
 Dessa forma, a Matriz de risco serve para avaliar o potencial de risco na produção desse projeto e ajudar no planejamento de ações para evitar que esses ocorram.
 
-<img src="../assets/MatrizRisco.png">
+<div align="center">
+<sub>Figura 4 - Matriz de Risco do Projeto</sub>
+<img src="../assets/MatrizRisco.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
-*Figura 4. Matriz de Riscos. Fonte: Autor Próprio (2024).*
 
 De acordo com os riscos estabelecidos foi possível determinar quais ações seriam tomadas para evitar que estes ocorressem e o que seria feito caso ocorressem.
+<div align="center">
+<sub>Tabela 01 - Riscos e Plano de Ação</sub>
+</div>
 
 \# | **Plano de Ação e Resposta** 
 --- | ---
@@ -202,10 +216,17 @@ De acordo com os riscos estabelecidos foi possível determinar quais ações ser
 **Ausência por motivo de saúde** | Buscar manter uma alimentação e cuidados saudáveis como individuo para eviatar adoecimento biologico ou mental
 **Dificuldade em assimilar o exercício proposto** | Tirar duvidas por meio de perguntas ou de outros exercícios semelhantes com ajuda de professor ou colegas
 
+<div align="center">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
 ## 1.2. Requisitos do Projeto
 
 Durante a reunião com o parceiro do projeto foi possível definir uma série de requisitos que contemplam desde a estética até a mecânica do jogo.
+
+<div align="center">
+<sub>Tabela 02 - Requisitos do Projeto</sub>
+</div>
 
 **Tabela de requisitos**
 \# | **Requisito**  
@@ -220,16 +241,21 @@ Durante a reunião com o parceiro do projeto foi possível definir uma série de
 8 | Ofertar tanto Mobile quanto para Computador.
 9 | Possibilitar o compartilhamento da conclusão de fases do jogo.
 
+<div align="center">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
-O público-alvo representa um grupo de pessoas com características semelhantes, tornando-as mais propensas a consumir os produtos ou serviços de uma empresa que as têm como alvo. Definir o público-alvo confere uma vantagem competitiva, direcionando a comunicação e o marketing da empresa, e impulsionando as vendas. No entanto, uma definição imprecisa ou muito abrangente pode resultar em conflitos, daí a importância de estabelecer gênero, idade, localização, profissão, escolaridade e outros aspectos relevantes.
+O público-alvo representa um grupo de pessoas com características semelhantes, tornando-as mais propensas a consumir os produtos ou serviços de uma empresa que as têm como alvo (Sebrae). 
+
+Definir o público-alvo confere uma vantagem competitiva, direcionando a comunicação e o marketing da empresa, e impulsionando as vendas. No entanto, uma definição imprecisa ou muito abrangente pode resultar em conflitos, daí a importância de estabelecer gênero, idade, localização, profissão, escolaridade e outros aspectos relevantes (Sebrae).
 
 Com o intuito de direcionar o projeto de forma precisa, a definição do público-alvo foi realizada. O Meta Supply, portanto, é direcionado a pessoas de todos os gêneros, raças e etnias, com idade acima de 18 anos, que trabalham como colaboradores da Meta. Além disso, são indivíduos que buscam se manter ativos e curiosos em relação aos processos da empresa, mas que podem se sentir confusos devido à complexidade de alguns deles.
 
-O público-alvo deste jogo é composto por pessoas responsáveis e comprometidas com a diversidade e representatividade em suas relações profissionais, engajadas em promover a diversidade cultural no cenário empresarial.
+Ademais, O público-alvo deste jogo é composto por pessoas responsáveis e comprometidas com a diversidade e representatividade em suas relações profissionais, engajadas em promover a diversidade cultural no cenário empresarial.
 
-Outro aspecto relacionado ao público-alvo são as personas, que refletem a personalidade real de um cliente ideal que a empresa pretende alcançar, buscando uma definição mais sofisticada e personalizada que leve em conta informações objetivas e subjetivas, como medos, anseios, dores e sonhos que motivam o desejo por um produto ou serviço.
+Outro aspecto relacionado ao público-alvo são as personas, que refletem a personalidade real de um cliente ideal que a empresa pretende alcançar, buscando uma definição mais sofisticada e personalizada que leve em conta informações objetivas e subjetivas, como medos, anseios, dores e sonhos que motivam o desejo por um produto ou serviço (Sebrae).
 
 Com o objetivo de oferecer um produto (jogo) mais personalizado e centrado em "pessoas reais", foi definida uma persona.
 
@@ -284,17 +310,17 @@ Portanto, ao concluir os objetivos de cada fase do jogo, também se alcança o o
 
 ### 2.2.1. Gênero do Jogo (sprint 2)
 
-Desde a origem dos jogos digitais, uma ampla variedade de gêneros e subgêneros foi criada para incorporar inovações em mecânicas, câmeras e jogabilidade. Atualmente, essa diversidade abrange mais de 100 tipos distintos, incluindo, entre outros, ação, aventura, luta, corrida, Role-Playing, simulação, estratégia, esportes, parlor e massive multiplayer online (MMO).
+Desde a origem dos jogos digitais, uma ampla variedade de gêneros e subgêneros foi criada para incorporar inovações em mecânicas, câmeras e jogabilidade. Atualmente, essa diversidade abrange mais de 100 tipos distintos, incluindo, entre outros, ação, aventura, luta, corrida, Role-Playing, simulação, estratégia, esportes, parlor e massive multiplayer online (FERNANDO et al.).
 
 Considerando essa diversidade de gêneros, foi possível classificar o Meta Supply nos gêneros de Role-Playing Game (RPG), simulação e Puzzle e Party Game.
 
-Os jogos de Role Playing Game são reconhecidos por suas narrativas envolventes, nas quais o jogador assume o controle de um ou mais personagens em primeira pessoa, enfrentando desafios e buscando alcançar objetivos específicos. Por outro lado, os jogos de simulação têm como objetivo reproduzir elementos do mundo real no ambiente digital. Por fim, os Puzzle e Party Games são caracterizados pela resolução de enigmas que variam desde desafios lógicos até perguntas diversas.
+Os jogos de Role Playing Game são reconhecidos por suas narrativas envolventes, nas quais o jogador assume o controle de um ou mais personagens em primeira pessoa, enfrentando desafios e buscando alcançar objetivos específicos. Por outro lado, os jogos de simulação têm como objetivo reproduzir elementos do mundo real no ambiente digital. Por fim, os Puzzle e Party Games são caracterizados pela resolução de enigmas que variam desde desafios lógicos até perguntas diversas (LEONARDO et al).
 
 Assim, o jogador assume o papel de um único personagem em sua jornada, que consiste em simular o processo de contratação de um serviço de buffet para a empresa Meta, enquanto enfrenta desafios de lógica e quebra-cabeças. Esses elementos são integrados em uma narrativa cativante e envolvente, proporcionando uma experiência imersiva ao jogador.  
 
 ### 2.2.2. Plataforma do Jogo (sprint 2)
 
-Um computador é uma máquina que possibilita aos usuários realizar cálculos matemáticos, pesquisas e trabalhos utilizando programas específicos. Atualmente, uma variedade de tipos de computadores está disponível, sendo os mais comuns os desktops e os notebooks. Os notebooks se destacam pela sua portabilidade e leveza, possibilitando seu transporte para diferentes locais, ao passo que os desktops são estacionários, fixos na mesa.
+Um computador é uma máquina que possibilita aos usuários realizar cálculos matemáticos, pesquisas e trabalhos utilizando programas específicos. Atualmente, uma variedade de tipos de computadores está disponível, sendo os mais comuns os desktops e os notebooks. Os notebooks se destacam pela sua portabilidade e leveza, possibilitando seu transporte para diferentes locais, ao passo que os desktops são estacionários, fixos na mesa(“INFORMÁTICA BÁSICA Eixo Conhecimento em Rede”).
 
 Além disso, temos a World Wide Web, conhecida como Web, que é uma rede de computadores na Internet que oferece informações em forma de hipertexto. Ela proporciona uma representação virtual do mundo real, permitindo aos usuários explorar lugares sem sair de casa, conectar-se e interagir com pessoas ao redor do globo, participar de comunidades e muito mais.
 
@@ -361,85 +387,114 @@ Considerando as personagens do game, analise se estas estão alinhadas ao públi
 
 ### 3.3.1. Locações Principais e/ou Mapas (sprints 2 e 3)
 
-*Conforme dados fornecidos pela Meta, sua sede principal está localizada em Menlo Park, Califórnia. A partir dessa informação, uma série de estudos sobre a cidade foi conduzida, e os resultados dessas pesquisas serviram de inspiração para a construção de Metaville, a cidade fictícia onde o jogo se passa.*
+Conforme dados fornecidos pela Meta, sua sede principal está localizada em Menlo Park, Califórnia. A partir dessa informação, uma série de estudos sobre a cidade foi conduzida, e os resultados dessas pesquisas serviram de inspiração para a construção de Metaville, a cidade fictícia onde o jogo se passa.
 
-*Menlo Park está situada no condado de San Mateo e foi fundada em 1854 por dois empresários que investiram na construção de uma ferrovia, posteriormente adquirindo vastas extensões de terra na região e contribuindo para o estabelecimento de uma comunidade ao redor da estação ferroviária. Hoje em dia, Menlo Park é caracterizada por seus bairros encantadores, arborizados e diversos distritos comerciais.*
+Menlo Park está situada no condado de San Mateo e foi fundada em 1854 por dois empresários que investiram na construção de uma ferrovia, posteriormente adquirindo vastas extensões de terra na região e contribuindo para o estabelecimento de uma comunidade ao redor da estação ferroviária. Hoje em dia, Menlo Park é caracterizada por seus bairros encantadores, arborizados e diversos distritos comerciais.
 
-*Além disso, os moradores do distrito representam uma variedade de origens, são bem-educados e engajados na vida comunitária, desfrutando dos parques e instalações recreativas da cidade. O centro da cidade oferece uma variedade de lojas e restaurantes exclusivos, com ambientes agradáveis e voltados para pedestres.*
+Além disso, os moradores do distrito representam uma variedade de origens, são bem-educados e engajados na vida comunitária, desfrutando dos parques e instalações recreativas da cidade. O centro da cidade oferece uma variedade de lojas e restaurantes exclusivos, com ambientes agradáveis e voltados para pedestres.
 
-*Menlo Park também é reconhecida como a "Capital do Capital de Risco", pois desempenha um papel fundamental no fomento e no desenvolvimento de novas tecnologias e mercados provenientes do Vale do Silício.*
+Menlo Park também é reconhecida como a "Capital do Capital de Risco", pois desempenha um papel fundamental no fomento e no desenvolvimento de novas tecnologias e mercados provenientes do Vale do Silício.
 
-*Com base em todas essas características de Menlo Park, foi concebida Metaville, uma cidade fictícia tranquila e pacífica, repleta de estabelecimentos comerciais, locais de interesse e, notavelmente, a sede de uma das maiores empresas de tecnologia do mundo: a Meta. Conforme retratado no mapa da cidade (ver figura abaixo), Metaville possui áreas residenciais, comerciais e uma variedade de parques e atrações culturais para seus habitantes.*
-
-<img src="../assets/mapa.png">
-
-*Além disso, no mapa há estabelecimentos que são interativos, ou seja, que o usuário pode acessar, e aqueles que apenas compõem o cenário. As locações que os jogadores poderão acessar são:* <br>
-*Escritório da Meta;* <br>
-GourmetPark; <br>
-SaborVille;<br>
-Metaville Fest;<br>
-GulaVIP; <br>
-Meta Bank; <br>
-Tribunal; <br>
-
-<img src="../assets/mapa2.png">
-
-*Esses locais foram divididos de forma que o jogador pudesse passar em cada um dos 4 cantos do mapa de acordo com a fase do jogo em que ele está. O jogador irá iniciar o jogo dentro do escritório da meta (a), na segunda fase ele terá que passar por todos os serviços de buffet (b, c, d, e), as próximas quatro fases ocorrem dentro do escritório da Meta, enquanto a sétima ocorre no tribunal (g), perto da finalização do jogo, na oitava fase o jogador irá até um dos buffets, na nona volta para o escritório, na décima ele irá até o banco (f) e para finalizar o jogo, o jogador poderá estar em qualquer lugar do mapa para realizar o encerramento.* <br>
-
-*Dessa forma, cada um dos locais interativos ou que o jogador poderá acessar possui um mapa próprio, ou seja, o escritório da Meta, os buffets, o banco e o tribunal possuem o seu próprio mapa. O primeiro mapa é o do escritório da Meta (figura abaixo), que foi inspirado em elementos dos escritórios da Meta ao redor do mundo.*<br>
-
-<img src="../assets/mapa3.png">
+Com base em todas essas características de Menlo Park, foi concebida Metaville, uma cidade fictícia tranquila e pacífica, repleta de estabelecimentos comerciais, locais de interesse e, notavelmente, a sede de uma das maiores empresas de tecnologia do mundo: a Meta. Conforme retratado no mapa da cidade (ver figura abaixo), Metaville possui áreas residenciais, comerciais e uma variedade de parques e atrações culturais para seus habitantes.
+<div align="center">
+<sub>Figura 6 - Mapa Principal</sub>
+<img src="../assets/mapa.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
 
 
-*A construção desse mapa iniciou pelo piso, que foi feito em tons de cinza e formato quadriculado, assim como os escritórios da Meta em Westlake, Boston, Chicago e Dublin (). Além disso, na maioria dos escritórios da empresa há espaços para recreação dos funcionários, assim foi utilizado no mapa os formatos de sofás mais parecidos com os sofás do The Bowl - MPK 21 e do escritório em Dublin().*  
+Além disso, no mapa há estabelecimentos que são interativos, ou seja, que o usuário pode acessar, e aqueles que apenas compõem o cenário. As locações que os jogadores poderão acessar são: <br>
+a) Escritório da Meta;<br>
+b) GourmetPark; <br>
+c) SaborVille;<br>
+d) Metaville Fest;<br>
+e) GulaVIP; <br>
+f) Meta Bank; <br>
+g) Tribunal; <br>
 
-*No mapa acima também há estantes com livros, assim como no escritório de Chicago, também há os computadores dos colaboradores que foram inseridos em bancadas compartilhadas como no escritório de engenharia da Meta em Boston e há uma sala de reunião inspirada na sala de conferência da Meta em Tel Aviv. Ademais, foi observado na Meta em Chicago e em Boston uma copa com alimentos, bebidas, máquinas de café e de comida, logo foram inseridos esses elementos no mapa. Por fim, o quadro presente na sala de reunião do mapa foi uma representação dos escritórios em Westlake, Boston e Tóquio que possuem ao menos uma parede pintada com cores marcantes. 
-Além disso, os assets utilizados para a construção desses cenários foram: Modern Interiors, Modern Office e Modern Exteriors, que foram produzidos por LimeZu.*
+<div align="center">
+<sub>Figura 6 - Mapa Principal referenciado com as locações</sub>
+<img src="../assets/mapa2.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+Esses locais foram divididos de forma que o jogador pudesse passar em cada um dos 4 cantos do mapa de acordo com a fase do jogo em que ele está. O jogador irá iniciar o jogo dentro do escritório da meta (a), na segunda fase ele terá que passar por todos os serviços de buffet (b, c, d, e), as próximas quatro fases ocorrem dentro do escritório da Meta, enquanto a sétima ocorre no tribunal (g), perto da finalização do jogo, na oitava fase o jogador irá até um dos buffets, na nona volta para o escritório, na décima ele irá até o banco (f) e para finalizar o jogo, o jogador poderá estar em qualquer lugar do mapa para realizar o encerramento.<br>
+
+Dessa forma, cada um dos locais interativos ou que o jogador poderá acessar possui um mapa próprio, ou seja, o escritório da Meta, os buffets, o banco e o tribunal possuem o seu próprio mapa. O primeiro mapa é o do escritório da Meta (figura abaixo), que foi inspirado em elementos dos escritórios da Meta ao redor do mundo.<br>
+
+<div align="center">
+<sub>Figura 7 - Escritório da Meta em Metaville</sub>
+<img src="../assets/mapa3.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+
+A construção desse mapa iniciou pelo piso, que foi feito em tons de cinza e formato quadriculado, assim como os escritórios da Meta em Westlake, Boston, Chicago e Dublin (). Além disso, na maioria dos escritórios da empresa há espaços para recreação dos funcionários, assim foi utilizado no mapa os formatos de sofás mais parecidos com os sofás do The Bowl - MPK 21 e do escritório em Dublin().  
+
+No mapa acima também há estantes com livros, assim como no escritório de Chicago, também há os computadores dos colaboradores que foram inseridos em bancadas compartilhadas como no escritório de engenharia da Meta em Boston e há uma sala de reunião inspirada na sala de conferência da Meta em Tel Aviv. Ademais, foi observado na Meta em Chicago e em Boston uma copa com alimentos, bebidas, máquinas de café e de comida, logo foram inseridos esses elementos no mapa. Por fim, o quadro presente na sala de reunião do mapa foi uma representação dos escritórios em Westlake, Boston e Tóquio que possuem ao menos uma parede pintada com cores marcantes. 
+
+Além disso, os assets utilizados para a construção desses cenários foram: Modern Interiors, Modern Office e Modern Exteriors, que foram produzidos por LimeZu.
 
 
 ### 3.3.2. Navegação pelo mundo (sprints 2 e 3)
 
-*Conforme apresentado na seção 3.3.1, o jogo se passa em Metaville, uma cidade fictícia, e para o jogador andar pelo mundo é necessário utilizar as setas do teclado para ir para cima, para baixo, para a esquerda ou para a direita. O jogador sempre inicia a partida pelo escritório da Meta, porém pode andar livremente pelo mapa.*
+Conforme apresentado na seção 3.3.1, o jogo se passa em Metaville, uma cidade fictícia, e para o jogador andar pelo mundo é necessário utilizar as setas do teclado para ir para cima, para baixo, para a esquerda ou para a direita. O jogador sempre inicia a partida pelo escritório da Meta, porém pode andar livremente pelo mapa.
 
-*Além disso, o jogo foi organizado em 11 fases e o jogador só passa de fase quando concluir corretamente o desafio da fase em que ele está, não podendo pular ou avançar sem ter concluído a tarefa. Sendo assim, cada fase possui uma task que o jogador precisa concluir para ganhar o jogo, essas tarefas são:*
+Além disso, o jogo foi organizado em 11 fases e o jogador só passa de fase quando concluir corretamente o desafio da fase em que ele está, não podendo pular ou avançar sem ter concluído a tarefa. Sendo assim, cada fase possui uma task que o jogador precisa concluir para ganhar o jogo, essas tarefas são:
 
-*Fase 1: Escolher os quatro melhores fornecedores entre os seis disponíveis no computador do escritório, por meio de um jogo de seleção.*
+- *Fase 1: Escolher os quatro melhores fornecedores entre os seis disponíveis no computador do escritório, por meio de um jogo de seleção.*
 
-*Fase 2: Conversar com o representante de cada um dos quatro buffets selecionados, e responder um questionário de alternativa sobre quais buffets atendem aos requisitos necessários.*
+- *Fase 2: Conversar com o representante de cada um dos quatro buffets selecionados, e responder um questionário de alternativa sobre quais buffets atendem aos requisitos necessários.*
 
-*Fase 3: Completar um acordo de confidencialidade de forma correta com base nas palavras que foram disponibilizadas para o jogador (encaixar as palavras no texto apresentado).*
+- *Fase 3: Completar um acordo de confidencialidade de forma correta com base nas palavras que foram disponibilizadas para o jogador (encaixar as palavras no texto apresentado).*
 
-*Fase 4: Enviar uma mensagem para os fornecedores informando quais serviços irá precisar.*
+- *Fase 4: Enviar uma mensagem para os fornecedores informando quais serviços irá precisar.*
 
-*Fase 5: Por meio de um questionário de alternativa o jogador deverá escolher as perguntas mais relevantes para a criação de um formulário, após um tempo o colaborador deverá analisar a resposta  e selecionar as duas melhores respostas.*
+- *Fase 5: Por meio de um questionário de alternativa o jogador deverá escolher as perguntas mais relevantes para a criação de um formulário, após um tempo o colaborador deverá analisar a resposta  e selecionar as duas melhores respostas.*
 
-*Fase 6: Completar um formulário de cadastro com as informações dos fornecedores dadas no formulário da fase anterior;*
+- *Fase 6: Completar um formulário de cadastro com as informações dos fornecedores dadas no formulário da fase anterior;*
 
-*Fase 7: Atuar como jurado do julgamento dos fornecedores no tribunal da cidade, tendo que selecionar apenas um fornecedor.*
+- *Fase 7: Atuar como jurado do julgamento dos fornecedores no tribunal da cidade, tendo que selecionar apenas um fornecedor.*
 
-*Fase 8: por meio de um puzzle de ligar, o jogador deverá definir qual o preço, prazo de entrega e cláusulas de qualidade do serviço.*
+- *Fase 8: por meio de um puzzle de ligar, o jogador deverá definir qual o preço, prazo de entrega e cláusulas de qualidade do serviço.*
 
-*Fase 9: No computador do escritório, o jogador deve emitir a ordem de compra e depois acompanhar a festa, garantindo que receberá a nota fiscal.*
+- *Fase 9: No computador do escritório, o jogador deve emitir a ordem de compra e depois acompanhar a festa, garantindo que receberá a nota fiscal.*
 
-*Fase 10: Ir até o banco e realizar a transferência do valor definido na fase 8, informando: número da agência, da conta e valor.*
+- *Fase 10: Ir até o banco e realizar a transferência do valor definido na fase 8, informando: número da agência, da conta e valor.*
 
-*Fase 11: Selecionar os botões de conclusão do jogo para finalizar o contato.*
+- *Fase 11: Selecionar os botões de conclusão do jogo para finalizar o contato.*
 
-*Portanto, o jogador pode se movimentar livremente pela cidade, porém ele só conseguirá entrar dentro dos estabelecimentos se concluir as tarefas referentes a cada fase.*
+Portanto, o jogador pode se movimentar livremente pela cidade, porém ele só conseguirá entrar dentro dos estabelecimentos se concluir as tarefas referentes a cada fase.
 
 ### 3.3.3. Condições climáticas e temporais (sprints 2 e 3)
 
-*O jogo Meta Supply se passa em um cenário urbano que não possui mudanças climáticas, ou seja, o clima do jogo permanece fixo independente do local no mapa que o jogador se posiciona. Além disso, não há mudanças temporais, então o jogo não diferencia noite ou dia. Além disso, as mecânicas do jogo não consideraram o tempo, então cada jogador está livre para concluir cada fase no período mais conveniente.*
+O jogo Meta Supply se passa em um cenário urbano que não possui mudanças climáticas, ou seja, o clima do jogo permanece fixo independente do local no mapa que o jogador se posiciona. Além disso, não há mudanças temporais, então o jogo não diferencia noite ou dia. Além disso, as mecânicas do jogo não consideraram o tempo, então cada jogador está livre para concluir cada fase no período mais conveniente.
 
-*Em resumo, o jogo não é afetado por condições climáticas e temporais, pois essas mecânicas permanecem constantes durante todo o jogo.*
+Em resumo, o jogo não é afetado por condições climáticas e temporais, pois essas mecânicas permanecem constantes durante todo o jogo.
 
 ### 3.3.4. Concept Art (sprint 2)
 
-*Inclua imagens de Concept Art do jogo que ainda não foram demonstradas em outras seções deste documento. Para cada imagem, coloque legendas, como no exemplo abaixo.*
+O Concept Art é uma expressão artística elaborada com o intuito de desenvolver o conceito estético de um projeto. Na prática, artes conceituais, como na sua tradução literal, são imagens visuais que definem todos os padrões a serem seguidos em um design, como formatos, personagens, layouts, cenários e objetos. 
 
-<img src="../assets/concept1.jpg">
+Sua criação tem papel significativo na parte visual das artes criativas, desempenhando uma pré-visualização do trabalho finalizado. Visto isso, foi desenvolvido as Concept Art para orientar a criação de cada cenário do jogo.
 
-Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
+<div align="center">
+<sub>Tabela 04 - Concept Art dos Cenários</sub>
+</div>
+
+\# | Concept Art | Descrição
+--- | --- | --- 
+1 | <img src="../assets/imagensGdd/buffet.png" width="100%"> | Na imagem, é possível visualizar, primeiramente, o visual externo do buffet, em que há uma construção  retangular com uma porta principal e uma logo circular. Abaixo, do lado esquerdo, há uma mesa para expor alimentos. Acima da mesa, há um lustre para expor a decoração. No lado direito, há uma mesa grande, onde estão expostas as louças disponíveis para locação.
+2 | <img src="../assets/imagensGdd/banco.png"> | A imagem mostra, no canto superior esquerdo,  a logo do banco, representada por uma moeda com um cifrão no centro. Abaixo, há o nome do banco. No canto inferior esquerdo, há um caixa eletrônico. Do lado direito, é possível visualizar a mesa para atendimento, juntamente com um personagem da gerência. Abaixo, há o modelo da nota de dinheiro a ser utilizado no jogo. No canto inferior direito, é exibida a ideia da tela do jogo. 
+3 | <img src="../assets/imagensGdd/festa.png"> | A imagem traz a idealização do cenário da casa de festas composto por uma edificação retangular, em que há, no canto superior direito, uma mesa do DJ. Abaixo, o escritório. No canto inferior esquerdo, a mesa de presentes. No centro, a pista de dança. No canto inferior direito, o banheiro. Acima dele, o stand para tirar fotos com o nome e logo do fornecedor. Logo na entrada, há um elevador. Além disso, no canto superior direito da imagem, há uma exemplificação da decoração da festa expressa por uma bandeirola.
+4 | <img src="../assets/imagensGdd/tribunal.png"> | O design conceitual do tribunal apresenta, no centro superior, a mesa do juiz. Ao lado esquerdo, há a mesa da oposição. Ao lado esquerdo, há a mesa da defesa. Abaixo da mesa do juiz, há a cadeira do julgado. Um pouco acima do centro, há a contensão que isola a área do julgamento. Abaixo da contensão, estão as cadeiras do público. Por fim, na parte inferior do centro, há a entrada do tribunal.
+5 | <img src="../assets/imagensGdd/conceptEscritorio.png"> | A imagem apresenta um conjunto de cadeiras, computadores dentro de cubículos organizados do lado esquerdo do layout. No canto superior direito, há os banheiros. No canto inferior esquerdo, há o bebedouro. No lado superior direito da imagem, há a visão superior do escritório.
+6 | <img src ="../assets/imagensGdd/conceptMapa.png"> | A primeira imagem mostra como o mapa do game é organizado, as edificações são divididas numa matriz 3x3. 
+
+<div align="center">
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
 
 ### 3.3.5. Trilha sonora (sprint 3)
 
@@ -478,7 +533,14 @@ Figura 1: detalhe da cena da partida do herói para a missão, usando sua nave
 
 ## 3.5. Gameflow (Diagrama de cenas) (sprint 2)
 
-*Posicione aqui seu "storyboard de programação" - o diagrama de cenas do jogo. Indique, por exemplo, como o jogo começa, quais opções o jogador tem, como ele avança nas fases, quais as condições de 'game over', como o jogo reinicia. Seu diagrama deve representar as classes, atributos e métodos usados no jogo.*
+A narrativa do jogo além da contextualização da história do jogo é a sequência de eventos ocorridos durante a progressão dos jogadores, ou seja, são os eventos vividos pelos jogadores durante as atividades do jogo. Essas atividades são determinadas pelo fluxo do jogo ou gameflow ().
+
+Segundo Johnson e Wiles (2003), o Flow é um estado de concentração, prazer profundo e absorção total em uma atividade, logo pode gerar afeto positivo em quem joga. Dessa forma, a maioria das experiências de fluxo ocorre com atividades direcionadas a objetivos, delimitadas por regras e que exigem lógica e habilidade, então as atividades do fluxo devem proporcionar uma sensação de descoberta e criatividade ().
+
+Adaptando os fluxos para os jogos, chega-se a um modelo formado por oito elementos principais: concentração, desafio, habilidades, controle, objetivos claros, feedback, imersão e social. Esses elementos estão intimamente inter-relacionados, já que o jogador deve ser habilidoso para realizar uma tarefa desafiadora e a tarefa deve ter objetivos claros para serem agradáveis de se realizar, de forma a resultar em um ambiente de total imersão (). 
+
+Dessa forma, objetivando criar um ambiente que proporcione diversão, imersão e desafios para os jogadores, cada fase possui tarefas que irão engajar os jogadores a continuarem avançando no jogo. Essas fases podem ser vistas nos fluxogramas abaixo:
+
 
 ## 3.6. Regras do jogo (sprint 3)
 
