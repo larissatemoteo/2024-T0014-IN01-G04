@@ -15,7 +15,6 @@
 - <a>Gustavo Gonçalves da Costa</a>
 - <a>Larissa dos Santos Temoteo</a> 
 
-
 ## Sumário
 
 [1. Introdução](#c1)
@@ -224,33 +223,96 @@ Durante a reunião com o parceiro do projeto foi possível definir uma série de
 
 ## 1.3. Público-alvo do Projeto (sprint 2)
 
-*Posicione aqui uma descrição justificada do público-alvo do jogo, em termos demográficos e de preferências/gostos pessoais.*
+O público-alvo representa um grupo de pessoas com características semelhantes, tornando-as mais propensas a consumir os produtos ou serviços de uma empresa que as têm como alvo. Definir o público-alvo confere uma vantagem competitiva, direcionando a comunicação e o marketing da empresa, e impulsionando as vendas. No entanto, uma definição imprecisa ou muito abrangente pode resultar em conflitos, daí a importância de estabelecer gênero, idade, localização, profissão, escolaridade e outros aspectos relevantes.
+
+Com o intuito de direcionar o projeto de forma precisa, a definição do público-alvo foi realizada. O Meta Supply, portanto, é direcionado a pessoas de todos os gêneros, raças e etnias, com idade acima de 18 anos, que trabalham como colaboradores da Meta. Além disso, são indivíduos que buscam se manter ativos e curiosos em relação aos processos da empresa, mas que podem se sentir confusos devido à complexidade de alguns deles.
+
+O público-alvo deste jogo é composto por pessoas responsáveis e comprometidas com a diversidade e representatividade em suas relações profissionais, engajadas em promover a diversidade cultural no cenário empresarial.
+
+Outro aspecto relacionado ao público-alvo são as personas, que refletem a personalidade real de um cliente ideal que a empresa pretende alcançar, buscando uma definição mais sofisticada e personalizada que leve em conta informações objetivas e subjetivas, como medos, anseios, dores e sonhos que motivam o desejo por um produto ou serviço.
+
+Com o objetivo de oferecer um produto (jogo) mais personalizado e centrado em "pessoas reais", foi definida uma persona.
+
+**Persona do usuário:**
+
+**Nome:** *Bruna Oliveira*  
+**Idade:** *29*  
+**Gênero:** *Feminino*  
+**Cargo:** *Analista de Marketing da META*  
+
+**Características:**  
+- Curiosa</br>
+- Criativa  
+- Observadora  
+
+**Biografia:**  
+Bruna é uma analista de marketing da META, nascida em Minas Gerais e criada em São Paulo. Possui graduação em Marketing pela Universidade de São Paulo (USP) e pós-graduação em Marketing Digital pela Universidade Federal de Minas Gerais (UFMG). Destacou-se no gerenciamento de marketing de diversos e-commerces antes de ser contratada pela META, onde atualmente lidera uma equipe responsável por estratégias de melhoria da presença online da bigtech no Brasil.
+
+**Dores:**  
+- Falta de uma abordagem didática e prática para compreender os processos de contratação de fornecedores da META.
+- Dificuldade em manter o foco e o engajamento ao longo de treinamentos tradicionais sobre o processo de contratação de fornecedores.
+
+**Necessidades:**  
+- Mecanismo que simplifique e promova o entendimento didático do processo de contratação de fornecedores, com aplicação prática do roadmap de um possível fornecedor até o término do contrato.</br>
+- Treinamento mais divertido para manter sua atenção.
+
+
 
 # <a name="c2"></a>2. Visão Geral do Jogo (sprint 2)
 
 ## 2.1. Objetivos do Jogo (sprint 2)
 
-*Descreva o que o jogador deve cumprir para avançar ou concluir o jogo*
+Todo o processo de criação e desenvolvimento do jogo foi direcionado para permitir que os colaboradores da Meta compreendam todas as etapas do processo de contratação de fornecedores, mantendo-se ativos e curiosos para conhecer e entender o funcionamento da contratação. Assim, o jogo foi dividido em 11 fases, das quais duas foram sem interações.
+
+O objetivo principal do jogo é executar a festa de lançamento do novo Meta Quest 4 e finalizar o contrato com o fornecedor selecionado de forma adequada. No entanto, para alcançar esse objetivo, é necessário passar por todas as fases do jogo, cada uma com seus próprios objetivos, que são os seguintes:
+
+- **Fase 1 - Planejar, Avaliar e Selecionar:** escolher os quatro melhores serviços de buffet entre as oito opções disponíveis.</br>
+- **Fase 2 - Due Diligence:** coletar informações sobre os fornecedores por meio de documentos ou entrevistas e selecionar os três melhores.</br>
+- **Fase 3 - Acordo de confidencialidade:** completar o acordo de confidencialidade com as palavras que melhor se adequem à proposta.</br>
+- **Fase 4 - Conhecendo o negócio:** esta fase não possui um objetivo específico, servindo apenas para orientar o jogador.</br>
+- **Fase 5 - RFX:** criar um formulário com as melhores perguntas, encaminhar para os fornecedores e selecionar os dois melhores.</br>
+- **Fase 6 - Cadastro em Sistemas Internos:** responder a um questionário de cadastro com as informações dos fornecedores.</br>
+- **Fase 7 - Avaliação de Terceiros:** participar como jurado do julgamento dos dois fornecedores avaliados, escolhendo apenas um fornecedor.</br>
+- **Fase 8 - Negociação de contratos:** estabelecer o preço do serviço, prazos de entrega e cláusulas de qualidade.</br>
+- **Fase 9 - Ordem de Compra, Gerenciamento e Monitoramento e Nota Fiscal:** Emitir a ordem de compra, monitorar a festa e receber a nota fiscal.</br>
+- **Fase 10 - Pagamento:** Apresentar a nota fiscal no banco e realizar a transferência do dinheiro para o Buffet.</br>
+- **Fase 11 - Encerramento e Desligamento:** decidir se irá encerrar o contrato ou apenas arquivar a empresa.</br>
+
+Portanto, ao concluir os objetivos de cada fase do jogo, também se alcança o objetivo final e o propósito do jogo, que é garantir que os colaboradores conheçam e assumam a responsabilidade pelas consequências de suas ações ao longo de cada fase do processo de contratação de fornecedores.
 
 ## 2.2. Características do Jogo (sprint 2)
 
 ### 2.2.1. Gênero do Jogo (sprint 2)
 
-*simulação, RPG, corrida, estratégia, esportes, ação, aventura etc.*  
+Desde a origem dos jogos digitais, uma ampla variedade de gêneros e subgêneros foi criada para incorporar inovações em mecânicas, câmeras e jogabilidade. Atualmente, essa diversidade abrange mais de 100 tipos distintos, incluindo, entre outros, ação, aventura, luta, corrida, Role-Playing, simulação, estratégia, esportes, parlor e massive multiplayer online (MMO).
+
+Considerando essa diversidade de gêneros, foi possível classificar o Meta Supply nos gêneros de Role-Playing Game (RPG), simulação e Puzzle e Party Game.
+
+Os jogos de Role Playing Game são reconhecidos por suas narrativas envolventes, nas quais o jogador assume o controle de um ou mais personagens em primeira pessoa, enfrentando desafios e buscando alcançar objetivos específicos. Por outro lado, os jogos de simulação têm como objetivo reproduzir elementos do mundo real no ambiente digital. Por fim, os Puzzle e Party Games são caracterizados pela resolução de enigmas que variam desde desafios lógicos até perguntas diversas.
+
+Assim, o jogador assume o papel de um único personagem em sua jornada, que consiste em simular o processo de contratação de um serviço de buffet para a empresa Meta, enquanto enfrenta desafios de lógica e quebra-cabeças. Esses elementos são integrados em uma narrativa cativante e envolvente, proporcionando uma experiência imersiva ao jogador.  
 
 ### 2.2.2. Plataforma do Jogo (sprint 2)
 
-*quanto ao dispositivo: desktop, smartphones, tablets, TV etc.*
+Um computador é uma máquina que possibilita aos usuários realizar cálculos matemáticos, pesquisas e trabalhos utilizando programas específicos. Atualmente, uma variedade de tipos de computadores está disponível, sendo os mais comuns os desktops e os notebooks. Os notebooks se destacam pela sua portabilidade e leveza, possibilitando seu transporte para diferentes locais, ao passo que os desktops são estacionários, fixos na mesa.
 
-*quanto ao sistema: Web, Windows, MacOS, Android, IOS etc.*
+Além disso, temos a World Wide Web, conhecida como Web, que é uma rede de computadores na Internet que oferece informações em forma de hipertexto. Ela proporciona uma representação virtual do mundo real, permitindo aos usuários explorar lugares sem sair de casa, conectar-se e interagir com pessoas ao redor do globo, participar de comunidades e muito mais.
+
+Diante desses conceitos, o jogo Meta Supply será desenvolvido para dispositivos desktop e notebooks, utilizando sistemas operacionais web. Essa abordagem visa facilitar o acesso ao jogo, garantir um desempenho de processamento otimizado e evitar possíveis travamentos durante a jogabilidade.
 
 ### 2.2.3. Número de jogadores (sprint 2)
 
-*1 jogador, 2 jogadores versus, 2 jogadores cooperação, multiplayer etc.*
+Com a proposta de oferecer uma experiência única e personalizada a cada jogador, o jogo foi concebido para ser jogado individualmente, permitindo que o colaborador desenvolva e demonstre suas habilidades de forma individualizada. Nesse sentido, cada partida será destinada a apenas um jogador, que poderá escolher entre diversos personagens e interagir com os personagens não jogáveis ao longo do jogo.
 
 ### 2.2.4. Títulos semelhantes e inspirações (sprint 2)
 
-*Liste e descreva títulos semelhantes e jogos que inspiram e são usados como referência do projeto*
+Para desenvolver o jogo Meta Supply, foram utilizados diversos jogos eletrônicos como fonte de inspiração, tanto para os desafios quanto para o design do jogo, incluindo títulos como "Habbo", "The Sims" e "Among Us".
+
+"**Habbo**" é um jogo de simulação no qual os jogadores podem criar avatares, fazer amizades, construir quartos e desenvolver jogos. Ele oferece uma comunidade vibrante onde os jogadores podem expressar sua criatividade e originalidade, sendo acessível via web em computadores.
+
+Da mesma forma, "**The Sims**" é outro jogo de simulação que busca simular a vida real, permitindo que os jogadores construam suas casas, construam carreiras, formem famílias e interajam com outros jogadores ao redor do mundo. Ele também enfatiza a diversidade e a personalização dos personagens conforme as preferências do jogador.
+
+Por fim, "**Among Us**" apresenta uma jogabilidade simples e é conhecido por sua capacidade de conectar grupos de amigos. Nele, os jogadores devem realizar tarefas em uma nave espacial enquanto tentam descobrir quem são os impostores infiltrados, o que cria uma atmosfera de suspense e intriga. A interatividade proporcionada pelas tarefas simples é uma inspiração chave para o jogo Meta Supply.
 
 ### 2.2.5. Tempo estimado de jogo (sprint 5)
 
@@ -262,17 +324,30 @@ Durante a reunião com o parceiro do projeto foi possível definir uma série de
 
 ## 3.1. Enredo do Jogo (sprints 2 e 3)
 
-*Descreva o enredo/história do jogo, criando contexto para os personagens (seção 3.2) e o mundo do jogo (seção 3.3). Uma boa história costuma ter um arco narrativo de contexto, conflito e resolução. Utilize etapas sequenciais para descrever esta história.* 
+A Meta é uma empresa reconhecida por sua vasta gama de produtos e serviços oferecidos em todo o mundo, especialmente em Metaville, onde todos os cidadãos utilizam seus produtos ou serviços. Um dos principais objetivos da empresa é inovar constantemente para atender melhor seu público, o que motiva a equipe de produção a trabalhar arduamente para lançar continuamente novidades e tendências.
 
-*Caso seu jogo não possua enredo/história (ex. jogo Tetris), mencione os motivos de não existir e como o jogador pode se contextualizar com o ambiente do jogo.*
+O processo de desenvolvimento de um produto ou serviço demanda tempo e dedicação, e todos os funcionários se envolvem intensamente para garantir que todas as etapas sejam executadas corretamente. Como resultado, os colaboradores da empresa estão sempre focados em suas atividades.
+
+O próximo lançamento em destaque é o novo Meta Quest 4, um óculos de realidade virtual que promete revolucionar o Metaverso e marcar um momento importante na história da empresa. No entanto, em meio a uma lista extensa de tarefas, ocorreu uma divisão na equipe de trabalho, e o jogador foi designado para organizar uma festa de lançamento memorável para todos os envolvidos.
+
+Contudo, surge um problema: para realizar essa festa, é necessário contratar uma empresa de eventos ou um serviço de buffet e seguir todo o processo de contratação de fornecedores. Como o jogador estava concentrado em outras atividades, acabou não lendo o documento que explicava esse processo. Portanto, ele terá que embarcar em uma jornada guiada, enfrentando desafios e tomando decisões para alcançar o objetivo final.
 
 ## 3.2. Personagens (sprints 2 e 3)
 
 ### 3.2.1. Controláveis
 
-*Descreva os personagens controláveis pelo jogador. Mencione nome, objetivos, características, habilidades, diferenciais etc. Utilize figuras (character art, sprite sheets etc.) para ilustrá-los. Caso utilize material de terceiros em licença Creative Commons, não deixe de citar os autores/fontes.* 
+José (figura 5) cresceu em uma comunidade simples, na periferia da cidade. Desde jovem, ele enfrentou obstáculos financeiros e sociais, mas sempre demonstrou uma incrível determinação e paixão por alcançar seus sonhos.
+<div align="center">
+<sub>Figura 5 - José - Personagem do Jogo</sub>
+<img src="../assets/personagem1.png" width="75%">
 
-*Caso não existam personagens (ex. jogo Tetris), mencione os motivos de não existirem e como o jogador pode interpretar tal fato.*
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+Seu desejo de criar uma vida melhor para si mesmo e para sua comunidade o levou a se concentrar em seus estudos e buscar oportunidades de crescimento. Ao ingressar na faculdade, destacou-se em ciências da computação e programação. Sua habilidade excepcional chamou a atenção de uma empresa inovadora líder no desenvolvimento de soluções tecnológicas avançadas.
+
+Embora o ambiente corporativo fosse novo ele trouxe consigo uma ética de trabalho inabalável e uma perspectiva única. Em sua jornada na Meta começou como estagiário, mas rapidamente com seu talento e dedicação foi promovido. 
+
 
 ### 3.2.2. Non-Playable Characters (NPC)
 
@@ -286,17 +361,77 @@ Considerando as personagens do game, analise se estas estão alinhadas ao públi
 
 ### 3.3.1. Locações Principais e/ou Mapas (sprints 2 e 3)
 
-*Descreva o ambiente do jogo, em que locais ele ocorre. Ilustre com imagens. Se houverem mapas, posicione-os aqui, descrevendo as áreas em acordo com o enredo. Se houverem fases, descreva-as também em acordo com o enredo (pode ser um jogo de uma fase só). Utilize listas ou tabelas para organizar esta seção. Caso utilize material de terceiros em licença Creative Commons, não deixe de citar os autores/fontes.*
+*Conforme dados fornecidos pela Meta, sua sede principal está localizada em Menlo Park, Califórnia. A partir dessa informação, uma série de estudos sobre a cidade foi conduzida, e os resultados dessas pesquisas serviram de inspiração para a construção de Metaville, a cidade fictícia onde o jogo se passa.*
+
+*Menlo Park está situada no condado de San Mateo e foi fundada em 1854 por dois empresários que investiram na construção de uma ferrovia, posteriormente adquirindo vastas extensões de terra na região e contribuindo para o estabelecimento de uma comunidade ao redor da estação ferroviária. Hoje em dia, Menlo Park é caracterizada por seus bairros encantadores, arborizados e diversos distritos comerciais.*
+
+*Além disso, os moradores do distrito representam uma variedade de origens, são bem-educados e engajados na vida comunitária, desfrutando dos parques e instalações recreativas da cidade. O centro da cidade oferece uma variedade de lojas e restaurantes exclusivos, com ambientes agradáveis e voltados para pedestres.*
+
+*Menlo Park também é reconhecida como a "Capital do Capital de Risco", pois desempenha um papel fundamental no fomento e no desenvolvimento de novas tecnologias e mercados provenientes do Vale do Silício.*
+
+*Com base em todas essas características de Menlo Park, foi concebida Metaville, uma cidade fictícia tranquila e pacífica, repleta de estabelecimentos comerciais, locais de interesse e, notavelmente, a sede de uma das maiores empresas de tecnologia do mundo: a Meta. Conforme retratado no mapa da cidade (ver figura abaixo), Metaville possui áreas residenciais, comerciais e uma variedade de parques e atrações culturais para seus habitantes.*
+
+<img src="../assets/mapa.png">
+
+*Além disso, no mapa há estabelecimentos que são interativos, ou seja, que o usuário pode acessar, e aqueles que apenas compõem o cenário. As locações que os jogadores poderão acessar são:* <br>
+*Escritório da Meta;* <br>
+GourmetPark; <br>
+SaborVille;<br>
+Metaville Fest;<br>
+GulaVIP; <br>
+Meta Bank; <br>
+Tribunal; <br>
+
+<img src="../assets/mapa2.png">
+
+*Esses locais foram divididos de forma que o jogador pudesse passar em cada um dos 4 cantos do mapa de acordo com a fase do jogo em que ele está. O jogador irá iniciar o jogo dentro do escritório da meta (a), na segunda fase ele terá que passar por todos os serviços de buffet (b, c, d, e), as próximas quatro fases ocorrem dentro do escritório da Meta, enquanto a sétima ocorre no tribunal (g), perto da finalização do jogo, na oitava fase o jogador irá até um dos buffets, na nona volta para o escritório, na décima ele irá até o banco (f) e para finalizar o jogo, o jogador poderá estar em qualquer lugar do mapa para realizar o encerramento.* <br>
+
+*Dessa forma, cada um dos locais interativos ou que o jogador poderá acessar possui um mapa próprio, ou seja, o escritório da Meta, os buffets, o banco e o tribunal possuem o seu próprio mapa. O primeiro mapa é o do escritório da Meta (figura abaixo), que foi inspirado em elementos dos escritórios da Meta ao redor do mundo.*<br>
+
+<img src="../assets/mapa3.png">
+
+
+*A construção desse mapa iniciou pelo piso, que foi feito em tons de cinza e formato quadriculado, assim como os escritórios da Meta em Westlake, Boston, Chicago e Dublin (). Além disso, na maioria dos escritórios da empresa há espaços para recreação dos funcionários, assim foi utilizado no mapa os formatos de sofás mais parecidos com os sofás do The Bowl - MPK 21 e do escritório em Dublin().*  
+
+*No mapa acima também há estantes com livros, assim como no escritório de Chicago, também há os computadores dos colaboradores que foram inseridos em bancadas compartilhadas como no escritório de engenharia da Meta em Boston e há uma sala de reunião inspirada na sala de conferência da Meta em Tel Aviv. Ademais, foi observado na Meta em Chicago e em Boston uma copa com alimentos, bebidas, máquinas de café e de comida, logo foram inseridos esses elementos no mapa. Por fim, o quadro presente na sala de reunião do mapa foi uma representação dos escritórios em Westlake, Boston e Tóquio que possuem ao menos uma parede pintada com cores marcantes. 
+Além disso, os assets utilizados para a construção desses cenários foram: Modern Interiors, Modern Office e Modern Exteriors, que foram produzidos por LimeZu.*
+
 
 ### 3.3.2. Navegação pelo mundo (sprints 2 e 3)
 
-*Descreva como os personagens se movem no mundo criado e as relações entre as locações – como as áreas/fases são acessadas ou desbloqueadas, o que é necessário para serem acessadas etc. Utilize listas ou tabelas para organizar esta seção.*
+*Conforme apresentado na seção 3.3.1, o jogo se passa em Metaville, uma cidade fictícia, e para o jogador andar pelo mundo é necessário utilizar as setas do teclado para ir para cima, para baixo, para a esquerda ou para a direita. O jogador sempre inicia a partida pelo escritório da Meta, porém pode andar livremente pelo mapa.*
+
+*Além disso, o jogo foi organizado em 11 fases e o jogador só passa de fase quando concluir corretamente o desafio da fase em que ele está, não podendo pular ou avançar sem ter concluído a tarefa. Sendo assim, cada fase possui uma task que o jogador precisa concluir para ganhar o jogo, essas tarefas são:*
+
+*Fase 1: Escolher os quatro melhores fornecedores entre os seis disponíveis no computador do escritório, por meio de um jogo de seleção.*
+
+*Fase 2: Conversar com o representante de cada um dos quatro buffets selecionados, e responder um questionário de alternativa sobre quais buffets atendem aos requisitos necessários.*
+
+*Fase 3: Completar um acordo de confidencialidade de forma correta com base nas palavras que foram disponibilizadas para o jogador (encaixar as palavras no texto apresentado).*
+
+*Fase 4: Enviar uma mensagem para os fornecedores informando quais serviços irá precisar.*
+
+*Fase 5: Por meio de um questionário de alternativa o jogador deverá escolher as perguntas mais relevantes para a criação de um formulário, após um tempo o colaborador deverá analisar a resposta  e selecionar as duas melhores respostas.*
+
+*Fase 6: Completar um formulário de cadastro com as informações dos fornecedores dadas no formulário da fase anterior;*
+
+*Fase 7: Atuar como jurado do julgamento dos fornecedores no tribunal da cidade, tendo que selecionar apenas um fornecedor.*
+
+*Fase 8: por meio de um puzzle de ligar, o jogador deverá definir qual o preço, prazo de entrega e cláusulas de qualidade do serviço.*
+
+*Fase 9: No computador do escritório, o jogador deve emitir a ordem de compra e depois acompanhar a festa, garantindo que receberá a nota fiscal.*
+
+*Fase 10: Ir até o banco e realizar a transferência do valor definido na fase 8, informando: número da agência, da conta e valor.*
+
+*Fase 11: Selecionar os botões de conclusão do jogo para finalizar o contato.*
+
+*Portanto, o jogador pode se movimentar livremente pela cidade, porém ele só conseguirá entrar dentro dos estabelecimentos se concluir as tarefas referentes a cada fase.*
 
 ### 3.3.3. Condições climáticas e temporais (sprints 2 e 3)
 
-*\<opcional\> Descreva diferentes condições de clima que podem afetar o mundo e as fases, se aplicável*
+*O jogo Meta Supply se passa em um cenário urbano que não possui mudanças climáticas, ou seja, o clima do jogo permanece fixo independente do local no mapa que o jogador se posiciona. Além disso, não há mudanças temporais, então o jogo não diferencia noite ou dia. Além disso, as mecânicas do jogo não consideraram o tempo, então cada jogador está livre para concluir cada fase no período mais conveniente.*
 
-*Caso seja relevante, descreva como o tempo passa, se ele é um fator limitante ao jogo (ex. contagem de tempo para terminar uma fase)*
+*Em resumo, o jogo não é afetado por condições climáticas e temporais, pois essas mecânicas permanecem constantes durante todo o jogo.*
 
 ### 3.3.4. Concept Art (sprint 2)
 
@@ -470,8 +605,31 @@ O que poderia melhorar no jogo? | A responsividade do personagem aos controles, 
 
 # <a name="c7"></a>7. Referências (sprint 5)
 
-_Incluir as principais referências de seu projeto, para que seu parceiro possa consultar caso ele se interessar em aprofundar. Um exemplo de referência de livro e de site:_<br>
 
 LUCK, Heloisa. Liderança em gestão escolar. 4. ed. Petrópolis: Vozes, 2010. <br>
-SOBRENOME, Nome. Título do livro: subtítulo do livro. Edição. Cidade de publicação: Nome da editora, Ano de publicação. <br>
 
+Sebrae. Guia de boas práticas em diversidade e inclusão para micro e pequenas empresas. <br>Disponível em: https://bibliotecas.sebrae.com.br/chronus/ARQUIVOS_CHRONUS/bds/bds.nsf/2ed14d56fbc0a5cd9decd065eba6558c/$File/30715.pdf.
+
+FERNANDO, L. et al. JOGOS DIGITAIS Princípios, conceitos e práticas. [s.l: s.n.]. Disponível em: <https://repositorio.ifes.edu.br/bitstream/handle/123456789/812/jogos_digitais.pdf?sequence=1&isAllowed=y>.
+
+LEONARDO, E. et al. Introdução aos Jogos Digitais Desenvolvimento, Produção e Design. [s.l: s.n.]. Disponível em: <https://central3.to.gov.br/arquivo/453377/>.
+
+‌MOBA, RPG, MMORPG, FPS e mais: entenda significado dos gêneros de games. Disponível em: <https://www.techtudo.com.br/noticias/2021/03/moba-rpg-mmorpg-fps-e-mais-entenda-significado-dos-generos-de-games.ghtml>.
+
+INFORMÁTICA BÁSICA Eixo Conhecimento em Rede. [s.l: s.n.]. Disponível em: <https://esesp.es.gov.br/Media/esesp/Apostilas/Apostila%20Completa%20-%20Inform%C3%A1tica%20B%C3%A1sica%2032h.pdf>.
+
+‌Pokémon GO. Disponível em: <https://www.pokemon.com/br/app/pokemon-go>. 
+
+‌Habbo. Disponível em: <https://www.habbo.com.br/playing-habbo/what-is-habbo>. 
+
+ARTS, E. Jogos The SimsTM - Site Oficial da EA. Disponível em: <https://www.ea.com/pt-br/games/the-sims>.
+
+‌Quem criou o Among Us? Veja quando foi lançado, o que significa e mais. Disponível em: <https://www.techtudo.com.br/noticias/2021/03/quem-criou-o-among-us-veja-quando-foi-lancado-o-que-significa-e-mais.ghtml>.
+
+Informações sobre a empresa. Disponível em: <https://about.fb.com/br/company.info/>.
+
+‌Disponível em: <https://menlopark.gov/Community/City-profile>. 
+
+‌LimeZu. Disponível em: <https://limezu.itch.io/>.
+
+‌
